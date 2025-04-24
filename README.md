@@ -2,12 +2,22 @@
 Use this completely modular image detection script to fight cows and collect their hides! 
 
 
-## HOW TO USE:
+## HOW TO RUN:
 - git clone repo
 - cd into project directory
 - pip install -r requirements.txt
 - python3 cowkiller.py
-- grab a coffee
+
+## INTENDED USAGE:
+- Login to OSRS and navigate to your nearest cow field
+- Once here and near cows, execute the script
+
+## CURRENT FEATURES:
+- Killing cows
+- Looting hides
+
+## FUTURE POTENTIAL FEATURES:
+- Auto-banking (dependent on location)
 
 
 ## EXAMPLE USAGE:
